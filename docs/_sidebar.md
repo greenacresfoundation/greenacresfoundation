@@ -4,5 +4,6 @@
   
 - Review Process
 
+  - [How to review](how-to-review.md)  
   - [Applications in depth](applications-explained.md)
-  - [How to review](how-to-review.md)    
+    

@@ -7,9 +7,12 @@ Providing your feedback and vote on each application is easy once you are famili
 Once you open an application from the main listings screen you will notice a new blue button in the upper right-hand corner of your screen that says "+Review". Clicking this will open your feedback for the application you currently have open. There are three different inputs you can offer:
 
 * **Decision** - This is a mandatory field and is your vote on whether or not you feel this application should be funded. You may select "Yes", "No", or "Abstain". Abstain should only be selected if you have a conflict of interest in voting for this application. The results of this field are what the administrator will use to tally votes. 
-* **Comments** - This is an optional field and can be used to start   
+* **Comments** - This optional field can be used to store commentary or notes you have during your review process. It is especially useful when you plan to return and finish a review later.
+* **Rating** - This is an experimental field and optional. It may be used in the future as a solution to determine which applications should be awarded in the event of tie.   
 
-## Save a review in progress
+## Saving a review in progress
+
+If you are in the process of reviewing an application and not ready to submit your decision, the system features a "Save Draft" button. Clicking this will save any 
 
 ## Submitting a review
 
