@@ -23,11 +23,13 @@ The grant summary is the summarized information from the complete Ohio Common Gr
 * *Project Summary*
 
 * *Purpose of Funds*
+
+![](/_media/view-icon2.png)
   
 
 ## Ohio common short form
 
-Titled "Full Applications" in the Review Portal, this area is where you will find the complete Ohio Common Grant Form information. You can find detailed information on how an organization will benchmark and measure their project, other sources of funding, as well as any file attachments they have included. The file attachments will include: 
+Titled "Full Applications" in the Review Portal, this area is where you will find the complete Ohio Common Grant Form information. You can find detailed information on how an organization will benchmark and measure their project, other sources of funding, as well as any file attachments they have included. The file attachments may include: 
 
 * *Statement of Revenue/Support for the current fiscal year*
 
@@ -39,10 +41,6 @@ Titled "Full Applications" in the Review Portal, this area is where you will fin
 
 * *Names and professional affiliations of board members*
 
-        
-## Organization details
-
-Need to review this with team. 
 
 ## Award history
 
