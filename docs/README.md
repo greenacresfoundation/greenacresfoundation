@@ -10,7 +10,7 @@ Once the portal administrator has created your account and the applications are 
  5. The system will prompt you to create and confirm a password. Please note the password requirements.
  6. Click "Create Account" and you will be logged into the system.  
 
-*video here*       
+[![](http://img.youtube.com/vi/AW5b2zGtctU/0.jpg)](http://www.youtube.com/watch?v=AW5b2zGtctU "")
 
 ## Navigating the dashboard
 Getting familiar with the "Listings Dashboard" will ensure the rest of your review process goes smoothly. There are four main components of the dashboard. 
@@ -21,7 +21,9 @@ Getting familiar with the "Listings Dashboard" will ensure the rest of your revi
 
 To return to the main listings page at anytime, click the logo at the top of the page. 
 
-*Video here*  
+<figure class="video_container">
+  <iframe  height="540" src="https://www.youtube.com/embed/xkDyuP3E3Og" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>      
 
 ## Viewing applications
 Individual applications can be viewed by clicking on any of the data fields on the card. When you open the application, you will arrive at a grant summary screen. If an organization has submitted more than one application in the same year, each application will be listed here. To view the complete grant summary, click on the "view" icon next to the "Amount Requested". To return to the listings page, you may either click "Listings" on the navigation breadcrumbs or click the logo at the top of the page.    
