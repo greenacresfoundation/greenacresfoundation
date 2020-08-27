@@ -1,3 +1,4 @@
+![logo](_media/logo.png)
 # Reviewing applications
 
 Providing your feedback and vote on each application is easy once you are familiar with the system. With just a few clicks your feedback will be stored and ready for the system administrator to start tallying.      

@@ -1,3 +1,5 @@
+![logo](_media/logo.png)
+
 # Applications in Depth
 
 This section will help you navigate and understand the various components of each application. 
