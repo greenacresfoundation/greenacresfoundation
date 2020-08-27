@@ -1,3 +1,4 @@
+![logo](_media/logo.png)
 # Introduction
 The following instructions will get you up and running on the L&L Nippert and LDNMAF review portals in a matter of minutes. You can refer back to these instructions at any time.
 > An awesome project.
