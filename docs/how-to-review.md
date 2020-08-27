@@ -18,7 +18,7 @@ If you are in the process of reviewing an application and not ready to submit yo
 
 ## Submitting a review
 
-When you are satisfied with your decision and have entered any commentary you feel is necessary, submitting your review by clicking the "Submit". At this point, your feedback will be stored in the system and you can review the next application.
+When you are satisfied with your decision and have entered any commentary you feel is necessary, submit your review by clicking the "Submit" button. At this point, your feedback will be stored in the system and you can review the next application.
 
 ## Switching between applications
 
