@@ -26,4 +26,4 @@ To return to the main listings page at anytime, click the logo at the top of the
 </figure>      
 
 ## Viewing applications
-Individual applications can be viewed by clicking on any of the data fields on the card. When you open the application, you will arrive at a grant summary screen. If an organization has submitted more than one application in the same year, each application will be listed here. To view the complete grant summary, click on the "view" icon next to the "Amount Requested". To return to the listings page, you may either click "Listings" on the navigation breadcrumbs or click the logo at the top of the page.    
+Individual applications can be viewed by clicking on any of the data fields on each application in the list. When you open the application, you will arrive at a grant summary screen. If an organization has submitted more than one application in the same year, each application will be listed here. To view the complete grant summary, click on the "view" icon next to the "Amount Requested". To return to the listings page, you may either click "Listings" on the navigation breadcrumbs or click the logo at the top of the page.    
