@@ -10,6 +10,7 @@ Once you open an application from the main listings screen you will notice a new
 * **Decision** - This is a mandatory field and is your vote on whether or not you feel this application should be funded. You may select "Yes", "No", or "Abstain". Abstain should only be selected if you have a conflict of interest in voting for this application. The results of this field are what the administrator will use to tally votes. 
 * **Comments** - This optional field can be used to store commentary or notes you have during your review process. It is especially useful when you plan to return and finish a review later.
 
+![](/_media/rev-btn.png)
 
 ## Saving a review in progress
 
