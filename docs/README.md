@@ -4,7 +4,7 @@
 The following instructions will get you up and running on the L&L Nippert Charitable Foundation and LDNMAF review portals in a matter of minutes. You can refer back to these instructions at any time.
 
 ## Setting up your account
-Once the portal administrator has created your account and the applications are ready for review, the system will send you a welcome email. This welcome email will contain a link to setup your Review Portal. Please review the following steps to create your account: 
+Once the portal administrator has created your account and the applications are ready for review, the system will send you a welcome email. This welcome email will contain a link to set up your Review Portal. Please review the following steps to create your account: 
  1. Click the link you received in your welcome email and you will arrive at a page that asks you to enter your email address. 
  2. In the email form field, enter your email address. The email address should match the email address where you received the welcome email message. 
  3. Since this is your first time logging into the system, you will be sent an account activation email which will confirm the correct email address on file and activate your account. 
