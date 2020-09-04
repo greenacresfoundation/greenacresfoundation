@@ -12,7 +12,9 @@ Once the portal administrator has created your account and the applications are 
  5. The system will prompt you to create and confirm a password. Please note the password requirements.
  6. Click "Create Account" and you will be logged into the system.  
 
-[![](http://img.youtube.com/vi/AW5b2zGtctU/0.jpg)](http://www.youtube.com/watch?v=AW5b2zGtctU "")
+<figure class="video_container">
+  <iframe  height="540" src="https://www.youtube.com/embed/CJqjkKWFQ7Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true"> </iframe>
+</figure>     
 
 ## Navigating the Dashboard
 Getting familiar with the "Listings Dashboard" will ensure the rest of your review process goes smoothly. There are four main components of the dashboard: 
@@ -24,7 +26,7 @@ Getting familiar with the "Listings Dashboard" will ensure the rest of your revi
 To return to the main listings page at anytime, click the logo at the top of the page. 
 
 <figure class="video_container">
-  <iframe  height="540" src="https://www.youtube.com/embed/xkDyuP3E3Og" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe  height="540" src="https://www.youtube.com/embed/e4KH2ZC97hM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true"> </iframe>
 </figure>      
 
 ## Viewing Applications

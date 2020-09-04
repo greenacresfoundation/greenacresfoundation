@@ -1,7 +1,10 @@
 ![logo](_media/logo.png)
 # Reviewing Applications
 
-Providing your feedback and vote on each application is easy once you are familiar with the system. With just a few clicks your feedback will be stored and ready for the system administrator to start tallying.      
+Providing your feedback and vote on each application is easy once you are familiar with the system. With just a few clicks your feedback will be stored and ready for the system administrator to start tallying. 
+<figure class="video_container">
+  <iframe width="560" height="540" src="https://www.youtube.com/embed/M6wWx0UYp4o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>     
 
 ## Starting a Review
 
@@ -35,11 +38,9 @@ If you decide to change your decision after submitting your feedback, all you ne
 
 ## Viewing Applicant Award History
 
-Award history is stored for organizations who have received grants in previous years. This information can be accessed via the "Organization Details Portal" link in the upper-right side of the page. Once you click this link you will arrive at a new list and can search by the organization name to look up past awards. We suggest opening this screen in a new tab, which can be accomplished by right-clicking on the link and selecting "Open in New Tab".
+Award history is stored for organizations who have received grants in previous years. This information can be accessed by selecting the "Awards History" form in the dropdown form navigator.
 
-<figure class="video_container">
-  <iframe  height="540" src="https://www.youtube.com/embed/PoG3F04tc7Y" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>  
+
 
    
 
