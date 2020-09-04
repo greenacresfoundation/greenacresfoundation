@@ -40,7 +40,19 @@ If you decide to change your decision after submitting your feedback, all you ne
 
 Award history is stored for organizations who have received grants in previous years. This information can be accessed by selecting the "Awards History" form in the dropdown form navigator.
 
+## Calculating Award Totals
 
+Being able to see how much you have awarded is an important piece of the system. To do this: 
+
+* Click on the Grid View button.
+* Select the Export option button. 
+* A csv file will be downloaded to your computer. Open it when it is finished downloading. 
+* Using Excel (or Google Sheets) sort and filter function, sort so that all your "Yes" responses are grouped together.
+* You can then highlight the dollar amount based on this group and Excel will give you a total value. 
+
+<figure class="video_container">
+  <iframe width="560" height="540" src="https://www.youtube.com/embed/9FLDYxziE9Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
 
    
 
